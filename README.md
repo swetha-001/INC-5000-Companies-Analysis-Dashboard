@@ -1,9 +1,10 @@
 # INC-5000-Companies-Analysis-Dashboard
-The Inc. 5000 is Inc. Magazine’s annual list of the 5000 fastest growing private companies in the United States and for this project, I have analyzed this data set which contains a CSV table with 5000 records, one for each company, each record contains details on the company like the company name, industry, founding year, website, and location, as well as 2019 revenue, % growth, number of workers (year-over-year), and the number of years on the list.
-I have used power query editor for cleaning the dataset and DAX functions in power BI for some calculations.
-From the analysis, I found the answers to interesting questions like - 
-1.The average revenue among companies on the list, Broken down by industry.
-2.What are the top 5 industries with largest average growth rate%.
-3.Which state has the most number of companies?
-4.Count of companies which have been on the list for 5 or more years.
-5.The most represented industry i.e the industry with more number of companies.
+* Dataset by : Maven Analytics
+* Analyzed INC 5000 companies 2019 list which contains records for each company and visualize the fastest growing private companies in the United States using Power BI. 
+* Here are some takeaways from the analysis : 
+1. There are companies across 27 industries namely Advertising & Marketing, Computer Hardware, Health, IT Services, Real Estate, Travel & Hospitality etc. on the INC 5000 list in 2019.
+2. Total Revenue is $237.68K Million, with an average revenue of $124K million, the Security industry leads in revenue.
+3. From the year 2015 there is a sharp drop in the revenue of companies 2216.30 in 2015 to 13.00 in 2016.
+4. Consumer Products & Services industry seen a large average growth rate% of 685.64 and Business Products & Services industry is the most represented industry with a total of 491 companies.
+5. California leads the USA with the highest number of companies, totaling 710.
+6. A total of 886 companies, representing 17.72%, have been on the list for 5 or more years.
