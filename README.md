@@ -8,3 +8,8 @@
 4. Consumer Products & Services industry seen a large average growth rate% of 685.64 and Business Products & Services industry is the most represented industry with a total of 491 companies.
 5. California leads the USA with the highest number of companies, totaling 710.
 6. A total of 886 companies, representing 17.72%, have been on the list for 5 or more years.
+
+
+![image](https://github.com/user-attachments/assets/be9962d5-a9d6-48ba-beb2-3f249ba6cfa7)
+
+![image](https://github.com/user-attachments/assets/4e6bd807-e23a-4fe5-aaba-287a2b8dca3e)
